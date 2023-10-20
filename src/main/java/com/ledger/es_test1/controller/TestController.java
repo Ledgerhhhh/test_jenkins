@@ -24,6 +24,7 @@ public class TestController {
     private String profile;
 
 
+
     @GetMapping("/getImage")
     public void getImage(HttpServletResponse httpServletResponse) {
 
