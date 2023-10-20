@@ -23,7 +23,7 @@ class EsTest1ApplicationTests {
         map.put("limit", 1);
         ReqHeaderMap reqHeaderMap = new ReqHeaderMap();
 
-        reqHeaderMap.put(ReqHeaderEnum.AUTHORIZATION, "4534");
+//        reqHeaderMap.put(ReqHeaderEnum.AUTHORIZATION, "4534");
 
 
         //Object data = ResUtils.get("http://apis.juhe.cn/fapigx/esports/query", map, reqHeaderMap);
